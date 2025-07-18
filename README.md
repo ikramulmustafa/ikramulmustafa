@@ -1,6 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building robust PHP/Laravel , Node.js applications, integrating payment gateways,Third Party Integrations, Agentic AI, AI Integration and n8n Automations and developing REST APIs.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects involving modern PHP frameworks, JavaScript (Vue.js, React.js), Node.js, Express.js, and advanced API integrations.<br><br>🤝 I’m looking for help with:<br>Mastering CI/CD workflows, automating SQL migration scripts for large datasets, and exploring Kubernetes for scalable deployments.<br><br>🌱 I’m currently learning:<br>AWS services, DevOps tools, and optimizing data flows for high-traffic APIs—particularly with best practices for SQL migration.<br><br>💬 Ask me about:<br>Laravel development, full-stack solutions (PHP + Node.js), WordPress customizations, and REST API performance tuning.<br><br>⚡ Fun fact:<br>I got hooked on coding after creating a small gaming website—it sparked my passion for problem-solving and end-to-end web development!
 
+### Cloud services for web hosting
+<a href="" title="AWS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Microsoft Azure" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="DigitalOcean" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg" alt="DigitalOcean" width="30" height="30"/></a>&nbsp;&nbsp;
+
+### Project Management tools
+<a href="" title="Jira" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Trello" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Monday" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday" width="30" height="30"/></a>&nbsp;&nbsp;
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ikram-ul-mustafa) 
